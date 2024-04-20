@@ -1,0 +1,45 @@
+{
+    "data": [
+        {
+            "title": "News 1",
+            "description": "Description 1",
+            "image": "images/img_1.png"
+        },{
+            "title": "News 2",
+            "description": "Description 2",
+            "image": "images/img_2.png"
+        },{
+            "title": "News 3",
+            "description": "Description 3",
+            "image": "images/img_3.png"
+        },{
+            "title": "News 4",
+            "description": "Description 4",
+            "image": "images/img_4.png"
+        },{
+            "title": "News 5",
+            "description": "Description 5",
+            "image": "images/img_5.png"
+        },{
+            "title": "News 6",
+            "description": "Description 6",
+            "image": "images/img_6.png"
+        },{
+            "title": "News 7",
+            "description": "Description 7",
+            "image": "images/img_1.png"
+        },{
+            "title": "News 8",
+            "description": "Description 8",
+            "image": "images/img_2.png"
+        },{
+            "title": "News 9",
+            "description": "Description 9",
+            "image": "images/img_3.png"
+        },{
+            "title": "News 10",
+            "description": "Description 10",
+            "image": "images/img_4.png"
+        }
+    ]
+}
